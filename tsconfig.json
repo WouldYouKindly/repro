@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "plugins": [
+          {
+            "name": "@jackolope/ts-lit-plugin",
+            "strict": true,
+            "globalTags": [
+              "sl-switch",
+            ]
+          }
+    ],
+}

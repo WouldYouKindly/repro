@@ -1,0 +1,11 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "@lit/task": "^1.0.2",
+    "@shoelace-style/shoelace": "^2.20.1",
+    "lit": "^3.3"
+  }
+}
